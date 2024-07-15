@@ -6,9 +6,7 @@ Creating an Airbnb clone involves developing a platform that allows users to lis
 
 ## Website
 
-```bash
-  projects-ikwx.onrender.com/listings
-```
+[Wandelust](https://projects-ikwx.onrender.com/listings)
 
 
 ## Tech Stack
@@ -31,6 +29,7 @@ Creating an Airbnb clone involves developing a platform that allows users to lis
 - Map
 
 - Reviews
+
 
 # Hi, I'm Suvin! 👋
 Former Toshiba Mitsubishi-Electric Industrial Systems Corporation Intern | B.Tech in Computer Science (VIT Vellore) | Skills: LLM, DSA, MERN, AWS
