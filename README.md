@@ -32,10 +32,10 @@ Creating an Airbnb clone involves developing a platform that allows users to lis
 
 - Reviews
 
-## 🚀 About Me
+# Hi, I'm Suvin! 👋
 Former Toshiba Mitsubishi-Electric Industrial Systems Corporation Intern | B.Tech in Computer Science (VIT Vellore) | Skills: LLM, DSA, MERN, AWS
 
-# Hi, I'm Suvin! 👋
+## 🚀 About Me
 I am a B.Tech Computer Science student at VIT Vellore with a CGPA of 8.5+. I am passionate about exploring new technologies and am dedicated to excelling in this rapidly evolving field.
 
 During my internship at TMEIC, I developed a chatbot for IT support using Large Language Models (LLM). Leveraging natural language processing and machine learning, our goal was to create an intelligent chatbot capable of handling various IT support queries. This project provided me with invaluable hands-on experience in AI and deepened my understanding of natural language processing techniques.
