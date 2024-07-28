@@ -58,7 +58,7 @@ I'm skilled in the MERN (MongoDB, Express.js, React.js, Node.js) stack, covering
 ## 🛠 Skills
 ❖ DSA: JAVA\
 ❖ LLM: Python, LangChain, HuggingFace\
-❖ WebDev:ReactJs, NodeJS, ExpressJs, MongoDB, SQL, HTML, Javascript, CSS
+❖ WebDev: ReactJs, NodeJS, ExpressJs, MongoDB, SQL, HTML, Javascript, CSS
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/drive/folders/1iVSTi9TxP4hNM2K_JSKR7FPHEIcLT-ZL?usp=sharing)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suvin-singh/)
