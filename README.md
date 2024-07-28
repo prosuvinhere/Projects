@@ -24,24 +24,24 @@ Creating an Airbnb clone involves developing a platform that allows users to lis
 ## Features
 
 - Sign up
-
-  <img width="1280" alt="Screenshot 2024-07-16 at 12 03 21 AM" src="https://github.com/user-attachments/assets/7018423e-51c9-4888-963c-d25980279393">
+  
+  <img width="1440" alt="Screenshot 2024-07-29 at 12 02 05 AM" src="https://github.com/user-attachments/assets/8b4f9ff1-01d1-42b0-92d0-461e3cbc4b06">
 
 - Login
   
-  <img width="1280" alt="Screenshot 2024-07-16 at 12 03 49 AM" src="https://github.com/user-attachments/assets/375f5c67-6941-4bc9-9fbb-13bd555ce531">
+  <img width="1440" alt="Screenshot 2024-07-29 at 12 03 56 AM" src="https://github.com/user-attachments/assets/1fbeb1a4-7a60-4e7c-af9f-b3b2fea0923e">
 
 - Add Housing
-  
-  <img width="1280" alt="Screenshot 2024-07-16 at 12 05 39 AM" src="https://github.com/user-attachments/assets/f774e894-97c6-4651-a2b0-deee2ac1c7be">
+
+  <img width="1440" alt="Screenshot 2024-07-29 at 12 04 48 AM" src="https://github.com/user-attachments/assets/42034a46-6c68-4d93-9605-93f70856dd3d">
 
 - Map
-  
-  <img width="1280" alt="Screenshot 2024-07-16 at 12 08 24 AM" src="https://github.com/user-attachments/assets/fdd7e2b1-2b6e-496a-8737-e0714c842756">
+
+  <img width="1440" alt="Screenshot 2024-07-29 at 12 04 48 AM" src="https://github.com/user-attachments/assets/c3e8ade1-849e-4081-b463-bea49b185ad5">
 
 - Reviews
 
-  <img width="1280" alt="Screenshot 2024-07-16 at 12 08 08 AM" src="https://github.com/user-attachments/assets/cff3bf9f-1667-4dab-83cd-b77205cb37d1">
+
 
 
 # Hi, I'm Suvin! 👋
