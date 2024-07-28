@@ -29,19 +29,20 @@ Creating an Airbnb clone involves developing a platform that allows users to lis
 
 - Login
   
-  <img width="1440" alt="Screenshot 2024-07-29 at 12 03 56 AM" src="https://github.com/user-attachments/assets/1fbeb1a4-7a60-4e7c-af9f-b3b2fea0923e">
+  <img width="1440" alt="Screenshot 2024-07-29 at 12 19 41 AM" src="https://github.com/user-attachments/assets/d0a56ba5-8165-4401-94a5-7793bee80c8a">
 
 - Add Housing
 
-  <img width="1440" alt="Screenshot 2024-07-29 at 12 04 48 AM" src="https://github.com/user-attachments/assets/42034a46-6c68-4d93-9605-93f70856dd3d">
+  <img width="1440" alt="Screenshot 2024-07-29 at 12 24 16 AM" src="https://github.com/user-attachments/assets/28316ad2-aeaf-4cc3-9576-5300ed7f4af9">
 
 - Map
 
-  <img width="1440" alt="Screenshot 2024-07-29 at 12 04 48 AM" src="https://github.com/user-attachments/assets/c3e8ade1-849e-4081-b463-bea49b185ad5">
+  <img width="1440" alt="Screenshot 2024-07-29 at 12 25 43 AM" src="https://github.com/user-attachments/assets/9b752859-2dd4-4641-a73b-1f3f526d654b">
+
 
 - Reviews
 
-
+  <img width="1440" alt="Screenshot 2024-07-29 at 12 26 08 AM" src="https://github.com/user-attachments/assets/857e7e0e-be10-4986-aa2f-b95dcaba2175">
 
 
 # Hi, I'm Suvin! 👋
