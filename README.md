@@ -19,29 +19,29 @@ Creating an Airbnb clone involves developing a platform that allows users to lis
 
 **Deployed:** MongoDB Atlas, Render
 
-<img width="1280" alt="Screenshot 2024-07-16 at 12 01 59 AM" src="https://github.com/user-attachments/assets/9314eb97-8760-4d3d-a5b2-a7eb42ffabde">
+  <img width="1440" alt="Screenshot 2024-07-28 at 11 58 49 PM" src="https://github.com/user-attachments/assets/79fcf573-7360-4b2b-9c21-8a7cb6adc871">
 
 ## Features
 
 - Sign up
 
-<img width="1280" alt="Screenshot 2024-07-16 at 12 03 21 AM" src="https://github.com/user-attachments/assets/7018423e-51c9-4888-963c-d25980279393">
+  <img width="1280" alt="Screenshot 2024-07-16 at 12 03 21 AM" src="https://github.com/user-attachments/assets/7018423e-51c9-4888-963c-d25980279393">
 
 - Login
   
-<img width="1280" alt="Screenshot 2024-07-16 at 12 03 49 AM" src="https://github.com/user-attachments/assets/375f5c67-6941-4bc9-9fbb-13bd555ce531">
+  <img width="1280" alt="Screenshot 2024-07-16 at 12 03 49 AM" src="https://github.com/user-attachments/assets/375f5c67-6941-4bc9-9fbb-13bd555ce531">
 
 - Add Housing
   
-<img width="1280" alt="Screenshot 2024-07-16 at 12 05 39 AM" src="https://github.com/user-attachments/assets/f774e894-97c6-4651-a2b0-deee2ac1c7be">
+  <img width="1280" alt="Screenshot 2024-07-16 at 12 05 39 AM" src="https://github.com/user-attachments/assets/f774e894-97c6-4651-a2b0-deee2ac1c7be">
 
 - Map
   
-<img width="1280" alt="Screenshot 2024-07-16 at 12 08 24 AM" src="https://github.com/user-attachments/assets/fdd7e2b1-2b6e-496a-8737-e0714c842756">
+  <img width="1280" alt="Screenshot 2024-07-16 at 12 08 24 AM" src="https://github.com/user-attachments/assets/fdd7e2b1-2b6e-496a-8737-e0714c842756">
 
 - Reviews
 
-<img width="1280" alt="Screenshot 2024-07-16 at 12 08 08 AM" src="https://github.com/user-attachments/assets/cff3bf9f-1667-4dab-83cd-b77205cb37d1">
+  <img width="1280" alt="Screenshot 2024-07-16 at 12 08 08 AM" src="https://github.com/user-attachments/assets/cff3bf9f-1667-4dab-83cd-b77205cb37d1">
 
 
 # Hi, I'm Suvin! 👋
