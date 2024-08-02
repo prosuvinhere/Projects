@@ -1,49 +1,76 @@
 
-# Wanderlust
+# Campus Events Hub: Your Gateway to Campus Life
 
-Creating an Airbnb clone involves developing a platform that allows users to list, discover, and book accommodations around the world. This typically requires several components and technologies.
+Welcome to Campus Events Hub, the ultimate platform where college events come alive! Our website connects students with the vibrant and dynamic activities happening across campuses, making it easier than ever to find, attend, and review college events.
 
 
-## Website
+# For Students
 
-[Wandelust](https://projects-ikwx.onrender.com/listings)
+Discover a world of opportunities with our easy-to-navigate event listings. Whether you're looking for academic lectures, social mixers, sports competitions, or workshops, our search and filter options ensure you never miss out on what's happening around you. Rate and review events to share your experiences and help your peers make informed choices. Track your event history and get personalized recommendations tailored to your interests.
+
+# For Colleges
+
+Promote your events and engage with students through our comprehensive event management tools. Post new events, update existing listings, and view valuable feedback from attendees. Track event metrics and gain insights into what works best for your audience. Our platform provides a streamlined way to showcase your campus activities and connect with the student body
+
+**Campus Events Hub** is more than just a listing service; it's a community-driven platform designed to enhance campus life and foster engagement. With features like event reminders, social media integration, and mobile-friendly design, staying connected to campus events has never been easier. Join us and be a part of the vibrant tapestry of college life!
 
 
 ## Tech Stack
 
-**Front-end:** HTML, BootstrapCSS
+**Frontend:** BootstrapCSS, HTML
 
-**Back-end:** NodeJs, ExpressJs
+**Backend:** Node, Express
 
-**Datbase:** MongoDB
+**Database:** MongoDB Atlas
 
-**Deployed:** MongoDB Atlas, Render
+**Hosted :** Render
+## Website
 
-  <img width="1440" alt="Screenshot 2024-07-28 at 11 58 49 PM" src="https://github.com/user-attachments/assets/79fcf573-7360-4b2b-9c21-8a7cb6adc871">
-
-## Features
-
-- Sign up
-  
-  <img width="1440" alt="Screenshot 2024-07-29 at 12 02 05 AM" src="https://github.com/user-attachments/assets/8b4f9ff1-01d1-42b0-92d0-461e3cbc4b06">
-
-- Login
-  
-  <img width="1440" alt="Screenshot 2024-07-29 at 12 19 41 AM" src="https://github.com/user-attachments/assets/d0a56ba5-8165-4401-94a5-7793bee80c8a">
-
-- Add Housing
-
-  <img width="1440" alt="Screenshot 2024-07-29 at 12 24 16 AM" src="https://github.com/user-attachments/assets/28316ad2-aeaf-4cc3-9576-5300ed7f4af9">
-
-- Map
-
-  <img width="1440" alt="Screenshot 2024-07-29 at 12 25 43 AM" src="https://github.com/user-attachments/assets/9b752859-2dd4-4641-a73b-1f3f526d654b">
+[Campus Events Hub](https://choosealicense.com/licenses/mit/)
 
 
-- Reviews
+## Home Page
 
-  <img width="1440" alt="Screenshot 2024-07-29 at 12 26 08 AM" src="https://github.com/user-attachments/assets/857e7e0e-be10-4986-aa2f-b95dcaba2175">
+<img width="1440" alt="Screenshot 2024-08-02 at 12 31 20 PM" src="https://github.com/user-attachments/assets/0208f39e-e87f-43cd-b297-976020f10f6a">
 
+## Sign Up
+Sign up to join our community and start exploring and rating campus events!
+
+<img width="1440" alt="Screenshot 2024-08-02 at 12 32 21 PM" src="https://github.com/user-attachments/assets/7023632e-a286-4942-8f16-7e51ac084a7d">
+
+## Login
+Log in to personalize your event experience and stay connected with campus life!
+
+<img width="1440" alt="Screenshot 2024-08-02 at 12 32 52 PM" src="https://github.com/user-attachments/assets/e9a8ef2c-78ce-4bde-baef-5255ef478f69">
+
+## Add Your Event
+Add your events, explore campus activities, and connect with your community!"
+
+<img width="1440" alt="Screenshot 2024-08-02 at 12 33 52 PM" src="https://github.com/user-attachments/assets/e05216f5-3e20-40d2-8256-76a07dd66721">
+
+## Edit Events
+
+Add, edit, and manage your events, and connect with your campus community!
+
+<img width="1440" alt="Screenshot 2024-08-02 at 12 35 09 PM" src="https://github.com/user-attachments/assets/fcae0b67-9832-44de-bd51-b13969b860d8">
+
+## Rating System
+
+Rate and review events to share your experience and help others discover the best campus activities
+
+<img width="1440" alt="Screenshot 2024-08-02 at 12 35 44 PM" src="https://github.com/user-attachments/assets/d95180d9-6563-4c77-b5cc-02e1cb9a2fe8">
+
+## Your thoughts
+
+Leave comments to share your thoughts and feedback on events, and engage with the campus community!
+
+<img width="1440" alt="Screenshot 2024-08-02 at 12 36 09 PM" src="https://github.com/user-attachments/assets/71da6459-c8b2-48c6-96c3-aac4beb3cc9a">
+
+## Map
+
+Use our interactive map to find and explore campus events by location and easily navigate your way to them!
+
+<img width="1440" alt="Screenshot 2024-08-02 at 12 36 22 PM" src="https://github.com/user-attachments/assets/d4125810-a51e-45cf-9049-39cb446b6baa">
 
 # Hi, I'm Suvin! 👋
 Former Toshiba Mitsubishi-Electric Industrial Systems Corporation Intern | B.Tech in Computer Science (VIT Vellore) | Skills: LLM, DSA, MERN, AWS
