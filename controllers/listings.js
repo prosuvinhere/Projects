@@ -22,7 +22,7 @@ module.exports.showListing = async (req,res) => {
         }})
         .populate("owner");
     if(!listing){
-        req.flash("error","listing requested does not exist")
+        req.flash("error","Event requested does not exist")
         res.redirect("/listings")
     }
     console.log(listing)
@@ -44,7 +44,7 @@ module.exports.createListing = async (req,res,next)=> {
     newListing.geometry = response.body.features[0].geometry
     let savedListing = await newListing.save()
     console.log(savedListing)
-    req.flash("success","new listing")
+    req.flash("success","Your Event has been added")
     res.redirect("/listings")
 }
 
@@ -52,7 +52,7 @@ module.exports.renderEditForm = async (req,res) => {
     let {id} = req.params
     const listing = await Listing.findById(id);
     if(!listing){
-        req.flash("error","listing requested does not exist")
+        req.flash("error","Event requested does not exist")
         res.redirect("/listings")
     }
     let originalImageUrl = listing.image.url
@@ -70,14 +70,14 @@ module.exports.updateListings = async(req,res) => {
         await listing.save()
     }
 
-    req.flash("success","updated")
+    req.flash("success","Your Event Details has been updated")
     res.redirect(`/listings/${id}`)
 }
 
 module.exports.destroyListing  = async (req,res) => {
     let {id} = req.params
     let del = await Listing.findByIdAndDelete(id);
-    req.flash("success","deleted")
+    req.flash("success","Your Event has been Deleted Successfully")
     console.log(del)
     res.redirect("/listings")
 }
