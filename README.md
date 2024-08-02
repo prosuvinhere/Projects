@@ -45,6 +45,12 @@ Promote your events and engage with students through our comprehensive event man
 
 <img width="1440" alt="Screenshot 2024-08-02 at 12 31 20 PM" src="https://github.com/user-attachments/assets/0208f39e-e87f-43cd-b297-976020f10f6a">
 
+
+## Event View
+Your Event looks good here
+
+![Uploading Screenshot 2024-08-02 at 1.41.49 PM.png…]()
+
 ## Sign Up
 Sign up to join our community and start exploring and rating campus events!
 
