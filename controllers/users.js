@@ -12,7 +12,7 @@ module.exports.signup = async(req,res) => {
         console.log(registeredUser);
         req.login(registeredUser, function(err) {
             if (err) { return next(err); }
-            req.flash("success","Welcome")
+            req.flash("success","Welcome to College Events")
             res.redirect("/listings")
           });
     }catch(e){
@@ -26,7 +26,7 @@ module.exports.renderLoginForm = (req,res) =>{
 }
 
 module.exports.login = async(req,res)=>{
-    req.flash("success","Welcome back to wanderlust you have logged in");
+    req.flash("success","Welcome back to College Events you have logged in");
     let redirectUrl = res.locals.redirectUrl || "/listings"
     res.redirect(redirectUrl)
 }
@@ -36,7 +36,7 @@ module.exports.logout = (req,res,next) => {
         if(err){
             return next(err)
         }
-        req.flash("success", "logged out successfully");
+        req.flash("success", "Logged Out Successfully");
         res.redirect("/listings");
     })
 }
