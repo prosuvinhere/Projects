@@ -14,6 +14,18 @@ Promote your events and engage with students through our comprehensive event man
 
 **Campus Events Hub** is more than just a listing service; it's a community-driven platform designed to enhance campus life and foster engagement. With features like event reminders, social media integration, and mobile-friendly design, staying connected to campus events has never been easier. Join us and be a part of the vibrant tapestry of college life!
 
+# Features
+- **User Authentication**: Implemented using Passport.js and passport-local-mongoose.
+- **Session Management**: Handled with express-session and connect-mongo.
+- **Form Validation**: Managed with Joi.
+- **Templating Engine**: EJS and ejs-mate for server-side rendering.
+- **File Uploads**: Handled by Multer and stored using multer-storage-cloudinary.
+- **Map Integration**: Utilizes @mapbox/mapbox-sdk for interactive maps.
+- **Environment Configuration**: Managed with dotenv.
+- **Flash Messages**: Implemented using connect-flash for user notifications.
+- **Method Override**: Allows the use of PUT and DELETE HTTP methods in forms.
+- **Database**: MongoDB for data storage, accessed through Mongoose.
+- **Development Tools**: Nodemon for automatic server restarts during development.
 
 ## Tech Stack
 
@@ -71,6 +83,7 @@ Leave comments to share your thoughts and feedback on events, and engage with th
 Use our interactive map to find and explore campus events by location and easily navigate your way to them!
 
 <img width="1440" alt="Screenshot 2024-08-02 at 12 36 22 PM" src="https://github.com/user-attachments/assets/d4125810-a51e-45cf-9049-39cb446b6baa">
+
 
 # Hi, I'm Suvin! 👋
 Former Toshiba Mitsubishi-Electric Industrial Systems Corporation Intern | B.Tech in Computer Science (VIT Vellore) | Skills: LLM, DSA, MERN, AWS
