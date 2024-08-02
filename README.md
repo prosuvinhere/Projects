@@ -69,7 +69,7 @@ Promote your events and engage with students through our comprehensive event man
 ## Event View
 Your Event looks good here
 
-![Uploading Screenshot 2024-08-02 at 1.41.49 PM.png…]()
+<img width="1440" alt="Screenshot 2024-08-02 at 1 53 20 PM" src="https://github.com/user-attachments/assets/45b8ce91-c95a-4298-9a12-b65ed2fe2418">
 
 ## Sign Up
 Sign up to join our community and start exploring and rating campus events!
