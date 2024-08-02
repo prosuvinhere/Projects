@@ -4,42 +4,62 @@
 Welcome to Campus Events Hub, the ultimate platform where college events come alive! Our website connects students with the vibrant and dynamic activities happening across campuses, making it easier than ever to find, attend, and review college events.
 
 
-# For Students
+## For Students
 
 Discover a world of opportunities with our easy-to-navigate event listings. Whether you're looking for academic lectures, social mixers, sports competitions, or workshops, our search and filter options ensure you never miss out on what's happening around you. Rate and review events to share your experiences and help your peers make informed choices. Track your event history and get personalized recommendations tailored to your interests.
 
-# For Colleges
+## For Colleges
 
 Promote your events and engage with students through our comprehensive event management tools. Post new events, update existing listings, and view valuable feedback from attendees. Track event metrics and gain insights into what works best for your audience. Our platform provides a streamlined way to showcase your campus activities and connect with the student body
 
 **Campus Events Hub** is more than just a listing service; it's a community-driven platform designed to enhance campus life and foster engagement. With features like event reminders, social media integration, and mobile-friendly design, staying connected to campus events has never been easier. Join us and be a part of the vibrant tapestry of college life!
 
-# Features
-- **User Authentication**: Implemented using Passport.js and passport-local-mongoose.
-- **Session Management**: Handled with express-session and connect-mongo.
-- **Form Validation**: Managed with Joi.
-- **Templating Engine**: EJS and ejs-mate for server-side rendering.
-- **File Uploads**: Handled by Multer and stored using multer-storage-cloudinary.
-- **Map Integration**: Utilizes @mapbox/mapbox-sdk for interactive maps.
-- **Environment Configuration**: Managed with dotenv.
-- **Flash Messages**: Implemented using connect-flash for user notifications.
-- **Method Override**: Allows the use of PUT and DELETE HTTP methods in forms.
-- **Database**: MongoDB for data storage, accessed through Mongoose.
-- **Development Tools**: Nodemon for automatic server restarts during development.
 
-## Tech Stack
 
-**Frontend:** BootstrapCSS, HTML
+# Tech Stack
 
-**Backend:** Node, Express
+## Frontend
+- **EJS**: Template engine for generating HTML.
 
-**Database:** MongoDB Atlas
+## Backend
+- **Node.js**: JavaScript runtime (v22.2.0).
+- **Express**: Web framework for Node.js.
 
-**Hosted :** Render
-## Website
+## Database
+- **MongoDB**: NoSQL database.
+- **Mongoose**: ODM for MongoDB.
+
+## Authentication
+- **Passport**: Authentication middleware.
+- **passport-local**: Local strategy for Passport.
+- **passport-local-mongoose**: Mongoose plugin for Passport.
+
+## File Uploads
+- **Multer**: Middleware for handling `multipart/form-data`.
+- **multer-storage-cloudinary**: Cloudinary storage engine for Multer.
+- **Cloudinary**: Cloud-based image and video management service.
+
+## Geocoding & Map Services
+- **@mapbox/mapbox-sdk**: Mapbox API services.
+
+## Utilities
+- **dotenv**: Loads environment variables from `.env` file.
+- **connect-flash**: Flash messages middleware.
+- **connect-mongo**: MongoDB session store for Connect.
+- **cookie-parser**: Cookie parsing middleware.
+- **express-session**: Session middleware.
+- **method-override**: Middleware to use HTTP verbs like PUT or DELETE.
+- **joi**: Data validation library.
+
+## Development Tools
+- **Nodemon**: Automatically restarts the server for changes.
+- **Init**: Dependency initialization (seems like a placeholder here).
+
+# Website
 
 [Campus Events Hub](https://choosealicense.com/licenses/mit/)
 
+# Preview
 
 ## Home Page
 
