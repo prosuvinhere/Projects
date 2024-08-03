@@ -57,7 +57,7 @@ Promote your events and engage with students through our comprehensive event man
 
 # Website
 
-[Campus Events Hub](https://choosealicense.com/licenses/mit/)
+[Campus Events Hub](https://projects-ikwx.onrender.com/listings)
 
 # Preview
 
